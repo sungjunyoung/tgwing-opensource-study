@@ -17,13 +17,13 @@ tgwing-opensource-study
         └── * 질문 디렉토리
 ```
 - 내부 소스나 문서를 제외한 모든 문자는 **영어** 로 이루어져야 합니다.
-- 질문은 questons 폴더로 pull-request 를 보냄으로서 이루어집니다. [다음 문서]()를 참고하세요.
+- 질문은 questons 폴더로 pull-request 를 보냄으로서 이루어집니다. [다음 문서](https://github.com/sungjunyoung/tgwing-opensource-study/tree/master/questions)를 참고하세요.
 
 
 ---
-### [1 주차]()
+### [1 주차](https://github.com/sungjunyoung/tgwing-opensource-study/tree/master/study-doc/week-1)
 - Orientation
-- 오픈소스란
+- 오픈소스란?
 - Git
     - 기본 컨셉 배우기
     - tgwing-opensource-study fork 하기
