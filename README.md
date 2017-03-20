@@ -6,7 +6,7 @@
 - 프로젝트 구성
 ```
 tgwing-opensource-study
-    │   └──  * 루트 디렉토리
+    │   └── * 루트 디렉토리
     ├── junior
     │   └── * 신입생 전용 실습 디렉토리
     ├── senior
