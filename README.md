@@ -51,7 +51,3 @@ tgwing-opensource-study
 - Orientation
 - 오픈소스란?
 - Git
-    - 기본 컨셉 배우기
-    - tgwing-opensource-study fork 하기
-    - add, commit, push 실습
-    - 스터디용 저장소에 pull request 만들어보기
