@@ -31,8 +31,17 @@ tgwing-opensource-study
         └── * 질문 디렉토리
 ```
 - 내부 소스나 문서를 제외한 모든 문자는 **영어** 로 이루어져야 합니다.
+    - 이를 위해서, 각 스터디원들은 한글 이름에 대응하는 nickname 을 가집니다. 질문 폴더나, 프로젝트 폴더를 만들 떄 이 nickname 을 이용합니다.
 - 질문은 questons 폴더로 pull-request 를 보냄으로서 이루어집니다. [다음 문서](https://github.com/sungjunyoung/tgwing-opensource-study/tree/master/questions)를 참고하세요.
 - 각 폴더에 대한 설명들은 폴더를 클릭하세용
+
+## 참고
+
+- 스터디장에게 커피 얻어마시는 방법
+    - 스터디 했던 내용을 정리해서 study-doc 에 pull-request 보내기
+    - 스터디원에게 도움이 될 수 있는 좋은 질문을 작성해 questions 폴더에 pull-request 보내기
+    - 함께 하는 프로젝트에 큰 기여를 한 스터디원
+    - 열심히 참여하기
 
 ---
 ### [1 주차](https://github.com/sungjunyoung/tgwing-opensource-study/tree/master/study-doc/week-1)
