@@ -1,6 +1,7 @@
 ## 스터디 1주차
 
 1. **Orientation**
+    - 스터디장 소개
     - 이 스터디가 신입생에게 도움이 되는 이유
     - 이 스터디가 재학생에게 도움이 되는 이유
     - 스터디 진행방식 설명
@@ -16,3 +17,10 @@
         - 참고링크
             - [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)
             - [git - 간편안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
+        - command-line [Git Download](https://git-scm.com/downloads)
+        - gui [(Source Tree)](https://www.sourcetreeapp.com/)
+        - 저장소 만들어보기
+            - 리모트 저장소와 로컬 저장소 / index
+            - add / commit / push / pull
+            - branch
+        - [tgwing-opensource-study](https://github.com/sungjunyoung/tgwing-opensource-study)
