@@ -23,4 +23,6 @@
             - 리모트 저장소와 로컬 저장소 / index
             - add / commit / push / pull
             - branch
-        - [tgwing-opensource-study](https://github.com/sungjunyoung/tgwing-opensource-study)
+        - [tgwing-opensource-study](https://github.com/sungjunyoung/tgwing-opensource-study) fork 하기
+        - workflow 설명
+        - 영어 nickname 을 pull-request 보내기
