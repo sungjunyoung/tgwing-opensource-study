@@ -13,3 +13,6 @@
     - Git 의 개념
     - Git을 신입생이 알아두어야 하는 이유
     - Git 실습
+        - 참고링크
+            - [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)
+            - [git - 간편안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
