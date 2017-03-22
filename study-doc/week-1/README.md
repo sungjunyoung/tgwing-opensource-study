@@ -25,4 +25,5 @@
             - branch
         - [tgwing-opensource-study](https://github.com/sungjunyoung/tgwing-opensource-study) fork 하기
         - workflow 설명
-        - 영어 nickname 을 pull-request 보내기
+        - 영어 nickname을 작성하고 pull-request 보내기
+4. 1주차 끗
