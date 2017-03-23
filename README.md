@@ -2,18 +2,18 @@
 
 ## 스터디 구성원
 * (*스터디장*) 12 성준영 : [sungjunyoung](https://github.com/sungjunyoung)
-- 16 강세희
+- 16 강세희: kangsehee
 - 16 강태우
 - 13 김민호
-- 13 김성주
-- 10 김진우
+- 13 tjdwn9410
+- 10 김진우 : JJason
 - 17 노현욱
-- 12 오세준
+- 12 오세준 : asdf
 - 14 오종현
-- 13 윤승우
-- 17 임은나
+- 13 윤승우: seungwoo
+- 17 임은나(lim eunna)
 - 16 안형준: ahj
-- 17 황지원
+- 17 황지원 : jiwon
 
 ## 개요
 
