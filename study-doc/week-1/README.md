@@ -27,3 +27,18 @@
         - workflow 설명
         - 영어 nickname을 작성하고 pull-request 보내기
 4. 1주차 끗
+
+
+
+### 명령어 정리
+
+`cd <file name>` / `cd ..`
+`ls`
+`mkdir <file name>`
+`vi <file name>`
+
+`git init`
+`git add .`
+`git commit -m "<Commit message>"`
+`git push`
+`git clone <git repo url>`
