@@ -3,7 +3,7 @@
 ## 스터디 구성원
 * (*스터디장*) 12 성준영 : [sungjunyoung](https://github.com/sungjunyoung)
 - 16 강세희
-- 16 강태우
+- 16 KangTaewoo
 - 13 Minhou
 - 13 김성주
 - 10 김진우
