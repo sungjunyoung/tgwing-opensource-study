@@ -33,14 +33,14 @@
 ### 명령어 정리
 
 1. bash
-    - `cd <file name>` / `cd ..`
-    - `ls`
-    - `mkdir <file name>`
-    - `vi <file name>`
+    - `cd <file name>` / `cd ..` : <커피먹고시푼사람의 설명>
+    - `ls` : <커피먹고시푼사람의 설명>
+    - `mkdir <file name>` : <커피먹고시푼사람의 설명>
+    - `vi <file name>` : <커피먹고시푼사람의 설명>
 
 2. git
-    - `git init`
-    - `git add .`
-    - `git commit -m "<Commit message>"`
-    - `git push`
-    - `git clone <git repo url>`
+    - `git init` : <커피먹고시푼사람의 설명>
+    - `git add .` : <커피먹고시푼사람의 설명>
+    - `git commit -m "<Commit message>"` : <커피먹고시푼사람의 설명>
+    - `git push` : <커피먹고시푼사람의 설명>
+    - `git clone <git repo url>` : <커피먹고시푼사람의 설명>
