@@ -4,7 +4,7 @@
 * (*스터디장*) 12 성준영 : [sungjunyoung](https://github.com/sungjunyoung)
 - 16 강세희
 - 16 강태우
-- 13 김민호
+- 13 Minhou
 - 13 김성주
 - 10 김진우
 - 17 노현욱
