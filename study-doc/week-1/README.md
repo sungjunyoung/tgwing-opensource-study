@@ -32,13 +32,15 @@
 
 ### 명령어 정리
 
-`cd <file name>` / `cd ..`
-`ls`
-`mkdir <file name>`
-`vi <file name>`
+1. bash
+    - `cd <file name>` / `cd ..`
+    - `ls`
+    - `mkdir <file name>`
+    - `vi <file name>`
 
-`git init`
-`git add .`
-`git commit -m "<Commit message>"`
-`git push`
-`git clone <git repo url>`
+2. git
+    - `git init`
+    - `git add .`
+    - `git commit -m "<Commit message>"`
+    - `git push`
+    - `git clone <git repo url>`
