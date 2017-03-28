@@ -35,15 +35,12 @@
 1. bash
 	- cd <file name>  /  cd ..  : 해당 파일로 들어감/ 뒤로가기
 	- ls  : 현재 위치의 폴더 모두 보여줌
-	- mkdir <file name>  : 해당 이름의 파일 생성
-	- vi <file name>  : 파일이 존재하는 경우 파일의 내용을 보여주고 없는경우 만듦
+	- mkdir <file name>  : 해당 이름의 폴더 생성	
+  - vi <file name>  : 파일이 존재하는 경우 파일의 내용을 보여주고 없는경우 만듦
 
 2. git
 	- git init  : 새로운 git 저장소가 만들어짐
-	- git add .  : 파일 추가
-	- git commit -m "<Commit message>"  : 커밋메세지를 작성
-	- git push  : 업뎃
-	- git clone <git repo url>  : 저장소의 내용을 복사
-
-
-
+	- git add .  : 파일을 인덱싱 area 로 추가
+  - git commit -m "<Commit message>"  : 커밋메세지를 작성
+	- git push  : 저장소에 변경내역을 
+  - git clone <git repo url>  : 저장소의 내용을 복사
