@@ -7,7 +7,7 @@
 - 13 김민호: minhou
 - 13 김성주 : tjdwn9410
 - 10 김진우 : JJason
-- 17 노현욱
+- 17 노현욱 : rohsikdak
 - 12 오세준 : asdf
 - 14 오종현
 - 13 윤승우: seungwoo
