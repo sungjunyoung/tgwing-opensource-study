@@ -9,7 +9,7 @@
 - 10 김진우 : JJason
 - 17 노현욱 : rohsikdak
 - 12 오세준 : asdf
-- 14 오종현
+- 14 오종현 : Ojong
 - 13 윤승우: seungwoo
 - 17 임은나 : limeunna
 - 16 안형준: ahj
