@@ -16,7 +16,7 @@
                 - web
 2. **Pull / Fetch**
     - 업데이트된 tgwing-opensource-study pull 받아보기
-        - `git add junyoung https://github.com/sungjunyoung/tgwing-opensource-study.git`
+        - `git remote add junyoung https://github.com/sungjunyoung/tgwing-opensource-study.git`
         > junyoung 이라는 단축 이름으로 <url> 의 리모트 저장소를 추가합니다
         - `git pull junyoung master`
         > junyoung 이라는 단축 이름을 가진 리모트 저장소에서 로컬 master 브랜치로 소스를 받아오고, merge 시킵니다.
