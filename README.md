@@ -52,3 +52,8 @@ tgwing-opensource-study
 - Orientation
 - 오픈소스란?
 - Git
+
+### [2 주차](https://github.com/sungjunyoung/tgwing-opensource-study/tree/master/study-doc/week-2)
+- 한학기 동안 진행할 일들
+- Pull / Fetch
+- Opensource WorkFlow
