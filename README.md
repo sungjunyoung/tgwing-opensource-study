@@ -57,3 +57,7 @@ tgwing-opensource-study
 - 한학기 동안 진행할 일들
 - Pull / Fetch
 - Opensource WorkFlow
+
+### [3 주차](https://github.com/sungjunyoung/tgwing-opensource-study/tree/master/study-doc/week-3)
+- 신입생 깃 저장소 관리하기
+- 재학생 프로젝트 진행하기
