@@ -26,3 +26,7 @@
     - `git commit -m "<commit message>"`
     - `git push`
         > "**자신**"의 리모트 저장소에 코드를 밀어넣는다.
+
+    - Github 에서 sungjunyoung/tgwing-opensource-study의 master 브랜치에 해당 nickname 브랜치의 pull-request를 요청합니다. 
+
+2. **재학생**

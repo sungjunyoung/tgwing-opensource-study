@@ -9,7 +9,7 @@
         - 티지윙 날적이 만들기
         - 역할분담
             - server
-                - node.js
+                - Spring
             - client
                 - ios
                 - android
