@@ -25,3 +25,4 @@
     - `git add .`
     - `git commit -m "<commit message>"`
     - `git push`
+        > "**자신**"의 리모트 저장소에 코드를 밀어넣는다.
