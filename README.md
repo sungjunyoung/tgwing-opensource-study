@@ -61,3 +61,8 @@ tgwing-opensource-study
 ### [3 주차](https://github.com/sungjunyoung/tgwing-opensource-study/tree/master/study-doc/week-3)
 - 신입생 깃 저장소 관리하기
 - 재학생 프로젝트 진행하기
+
+### [4 주차](https://github.com/sungjunyoung/tgwing-opensource-study/tree/master/study-doc/week-4)
+- GUI Tool 사용하기
+- 신입생 프로젝트 관리 같이해보기
+- 재학생 프로젝트 진행방향 결정하기
