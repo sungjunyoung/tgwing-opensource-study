@@ -66,3 +66,10 @@ tgwing-opensource-study
 - GUI Tool 사용하기
 - 신입생 프로젝트 관리 같이해보기
 - 재학생 프로젝트 진행방향 결정하기
+
+### [5 주차](https://github.com/sungjunyoung/tgwing-opensource-study/tree/master/study-doc/week-5)
+- 재학생 날적이 프로젝트 전 사전 준비
+    - Application 의 기본적인 구성
+    - API - REST API
+    - 의존성 관리 (Dependency Management)
+    - 날적이 스켈레톤 프로젝트 만들기
